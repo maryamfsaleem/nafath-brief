@@ -1,11 +1,11 @@
-<ID-1> — skeleton: NAFATH-V2
+29f12e4 — skeleton: NAFATH-V2
 
-<ID-2> — overview: connect the six subtopics
+0069571 — overview: connect the six subtopics
 
-<ID-3> — research: software, ai, mobile
+2cf1a64 — research: software, ai, mobile
 
-<ID-4> — research: networking, cybersecurity, data
+8928928 — research: networking, cybersecurity, data
 
-<ID-5> — analysis: misconception and open question
+0fb6d05 — analysis: misconception and open question
 
-<ID-6> — revise: overview
+9c8eb6c — revise: overview
