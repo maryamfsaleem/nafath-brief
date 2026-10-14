@@ -1,23 +1,20 @@
-NAFATH-V2: Keeping a 5G Service Running Under Stress
-
 Version: NAFATH-V2
-
 Track: Cybersecurity
 
-Overview
+## Overview
 
-Software
+## Software
 
-AI
+## AI
 
-Mobile
+## Mobile
 
-Networking
+## Networking
 
-Cybersecurity
+## Cybersecurity
 
-Data
+## Data
 
-Misconception in My Track
+## Misconception in My Track
 
-Open Question
+## Open Question
