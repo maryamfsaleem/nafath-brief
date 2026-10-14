@@ -19,10 +19,19 @@ Resource: Android Developers - Build an offline-first app - https://developer.an
 
 
 ## Networking
+5G network slicing is a technique that divides a single physical network into multiple virtual slices, each optimized for specific requirements such as bandwidth, latency, and reliability. A dedicated emergency services slice could provide prioritized access to network resources, dedicated bandwidth, and reduced latency for responders during congestion. This would help them maintain critical communications and improve situational awareness during emergencies, although performance still depends on network coverage and available infrastructure.
+Resource: 5G Network Slicing Explained: What It Means for First Responder Communications - https://www.premierwireless.com/blog/5g-network-slicing-explained-what-it-means-for-first-responder-communications
+
 
 ## Cybersecurity
+The incident response lifecycle has four phases: Preparation, Detection and Analysis, Containment, Eradication and Recovery, and Post-Incident Activity. Preparation establishes response plans, teams, and tools. Detection and Analysis identifies and investigates attacks affecting the 5G service. Containment limits damage by blocking malicious traffic or isolating compromised systems. Eradication removes the threat, and Recovery restores normal operations. Post-Incident Activity reviews the incident and improves security controls to prevent similar attacks.
+Resource: SentinelOne - Incident Response Steps & Phases: NIST Framework Explained - https://www.sentinelone.com/cybersecurity-101/services/incident-response-steps-phases/
+
 
 ## Data
+A star schema uses denormalized dimension tables connected directly to a central fact table, simplifying queries and reporting. A snowflake schema normalizes dimension tables into related tables, reducing data redundancy but adding complexity and potentially more joins. For reporting daily 5G service usage by region, a star schema is generally more suitable. A central usage fact table connected to Date, Region, and Service dimensions makes it easier to aggregate usage and compare regions over time.
+Resource: GeeksforGeeks - Difference between Star Schema and Snowflake Schema - https://www.geeksforgeeks.org/dbms/difference-between-star-schema-and-snowflake-schema/
+
 
 ## Misconception in My Track
 
