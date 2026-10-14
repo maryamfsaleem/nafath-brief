@@ -34,5 +34,9 @@ Resource: GeeksforGeeks - Difference between Star Schema and Snowflake Schema - 
 
 
 ## Misconception in My Track
+A common misconception is that incident response begins only after an attack has been detected. In reality, organizations must prepare beforehand by establishing response plans, assigning responsibilities, and developing procedures for handling incidents. NIST explains that incorporating incident response into cybersecurity risk management can “help organizations prepare for incident responses, reduce the number and impact of incidents that occur, and improve the efficiency and effectiveness of their incident detection, response, and recovery activities.” For a 5G emergency service, preparation helps reduce disruption and protect critical communications.
+Resource: NIST - Incident Response Recommendations and Considerations for Cybersecurity Risk Management (SP 800-61 Rev. 3) - https://csrc.nist.gov/pubs/sp/800/61/r3/final
+
 
 ## Open Question
+How can a telecom operator contain a cyberattack while keeping critical 5G communications available to emergency responders, especially when isolating compromised systems could disrupt the service?
